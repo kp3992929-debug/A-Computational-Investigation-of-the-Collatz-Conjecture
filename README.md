@@ -106,5 +106,10 @@ A-Computational-Investigation-of-the-Collatz-Conjecture/
 
 └── README.md
 
+## Published Paper
+
+The research paper is available on Zenodo:
+
+https://doi.org/10.5281/zenodo.22135273
 
 
