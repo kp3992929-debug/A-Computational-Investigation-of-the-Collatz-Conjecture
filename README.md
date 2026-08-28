@@ -22,16 +22,18 @@ I asked these questions while running the program:
 
 ## Dataset
 
-The dataset holds the results for every integer from one to ten thousand.
-For each starting number the following data were saved:
-- Starting number
-- Stopping time (how steps until one)
-- Maximum value reached
-After that I calculated the ratio of maximum value to starting number:
-Maximum value ÷ Starting number
-The full file is in:
-data/collatz_data.csv
+## Dataset
 
+The dataset holds the results for every integer from one to ten thousand. For each starting number, the following data were saved:
+- Starting number
+- Stopping time (number of steps until one)
+- Maximum value reached
+After that, I calculated the ratio of maximum value to starting number:
+**Maximum value ÷ Starting number**
+
+The full file is in:
+
+`data/collatz_data.csv`
 ## Methodology
 
 I wrote a Python script that implements the Collatz rule.
