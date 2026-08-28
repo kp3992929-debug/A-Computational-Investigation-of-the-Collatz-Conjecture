@@ -75,16 +75,33 @@ The code, for these analyses lives in the code/ directory.
 ## Repository Structure
 
 A-Computational-Investigation-of-the-Collatz-Conjecture/
+
 ├── code/
+
 │   ├── generate_dataset.py
+
 │   ├── data_analysis.py
+
+
 │   └── correlation.py
+
 ├── data/
+
 │   └── collatz_data.csv
+
 ├── figures/
+
 │   ├── figure_1_stopping_time.png
+
 │   ├── figure_2_maximum_value.png
+
 │   └── figure_3_maximum_starting_ratio.png
+
 ├── paper/
+
 │   └── Collatz_Conjecture_Research_Paper.pdf
+
 └── README.md
+
+
+
