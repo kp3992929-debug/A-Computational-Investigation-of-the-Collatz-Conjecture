@@ -27,7 +27,7 @@ The dataset holds the results for every integer from one to ten thousand. For ea
 - Starting number
 - Stopping time (number of steps until one)
 - Maximum value reached
-- 
+ 
 After that, I calculated the ratio of maximum value to starting number:
 
 **Maximum value ÷ Starting number**
