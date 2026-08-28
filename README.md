@@ -22,8 +22,6 @@ I asked these questions while running the program:
 
 ## Dataset
 
-## Dataset
-
 The dataset holds the results for every integer from one to ten thousand. For each starting number, the following data were saved:
 - Starting number
 - Stopping time (number of steps until one)
