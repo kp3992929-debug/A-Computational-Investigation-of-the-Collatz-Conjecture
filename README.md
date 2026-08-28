@@ -1,5 +1,5 @@
-# A-Computational-Investigation-of-the-Collatz-Conjecture
-A computational investigation of Collatz sequences for starting values from 1 to 10,000.
+
+
 # A Computational Investigation of the Collatz Conjecture
 
 I started this investigation to look at Collatz sequences for every starting number from one to ten thousand.
